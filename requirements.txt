@@ -1,0 +1,10 @@
+torch
+torchvision
+transformers
+pandas
+numpy
+scikit-learn
+opencv-python
+tqdm
+google-cloud-speech
+facenet-pytorch
